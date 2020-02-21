@@ -1,5 +1,5 @@
 # javascript-video-analyzer
-Concept idea for implementing javascript video analyzer in real time from browser with plugins for identifying objects, people, movements......
+Concept idea for implementing javascript video analyzer in real time from browser for identifying objects, people, movements...
 
 ## Resource used
 Canvas_API :  
